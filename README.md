@@ -1,8 +1,4 @@
----
-tags: cssi, javascript
-level: 1
-languages: javascript
----
+
 #Objects
 After the Lesson you'll be able to understand:
 + What is an object
