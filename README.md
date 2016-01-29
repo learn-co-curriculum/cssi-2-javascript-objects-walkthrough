@@ -33,4 +33,4 @@ Javascript also allows you to access the values by using a dot, similar to how y
 ```
 Exercise: Now create an object with at least 4 associated pairs and assign it to a variable. What did you make?
 
-<a href='https://learn.co/lessons/cssi-2-javascript-objects-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2-javascript-objects-walkthrough' title='Objects'>Objects</a> on Learn.co and start learning to code for free.</p>
